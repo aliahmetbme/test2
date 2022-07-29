@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 """
+
+KKAAAN HAY SENIN MUCUK
+
+"""
+
+
+"""
 Created on Tue Jul 19 22:44:24 2022
 
 @author: 082al
